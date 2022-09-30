@@ -1,0 +1,5 @@
+*.cbq
+*.depend
+*.layour
+*.o
+*.exe
